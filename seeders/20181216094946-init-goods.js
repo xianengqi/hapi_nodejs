@@ -11,7 +11,8 @@ module.exports = {
       { id: 2, name: '商品1-2', shop_id: 2, thumb_url: '2.png', ...timestamps, },
       { id: 3, name: '商品1-3', shop_id: 3, thumb_url: '3.png', ...timestamps, },
       { id: 4, name: '商品1-4', shop_id: 4, thumb_url: '4.png', ...timestamps, },
-    ]
+    ],
+    {},
   ),
 
   down: (queryInterface, Sequelize) => {

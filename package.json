@@ -22,7 +22,8 @@
     "mysql2": "^1.6.4",
     "package": "^1.0.1",
     "sequelize": "^4.42.0",
-    "vision": "^4.1.1"
+    "vision": "^4.1.1",
+    "xml2js": "^0.4.19"
   },
   "devDependencies": {
     "sequelize-cli": "^5.4.0"
